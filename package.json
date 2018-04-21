@@ -1,5 +1,5 @@
 {
-  "name": "bs-url",
+  "name": "bs-node-url",
   "version": "0.1.0",
   "scripts": {
     "build": "bsb -make-world",
