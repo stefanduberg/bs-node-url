@@ -48,5 +48,3 @@ external make : (string, ~base: string=?, unit) => t = "URL";
 [@bs.set] external setUsername : (t, string) => string = "username";
 
 [@bs.send] external toString : t => string = "";
-
-[@bs.send] external toJson : t => string = "toJSON";
