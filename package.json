@@ -10,7 +10,7 @@
   "author": "Stefan Duberg",
   "license": "MIT",
   "files": [
-    "bs-config.json",
+    "bsconfig.json",
     "src/*.re"
   ],
   "peerDependencies": {
