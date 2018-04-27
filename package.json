@@ -9,7 +9,7 @@
   "keywords": ["BuckleScript"],
   "author": "Stefan Duberg",
   "license": "MIT",
-  "devDependencies": {
+  "peerDependencies": {
     "bs-platform": "^3.0.0"
   }
 }
