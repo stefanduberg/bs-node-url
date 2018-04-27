@@ -9,6 +9,10 @@
   "keywords": ["BuckleScript"],
   "author": "Stefan Duberg",
   "license": "MIT",
+  "files": [
+    "bs-config.json",
+    "src/*.re"
+  ],
   "peerDependencies": {
     "bs-platform": "^3.0.0"
   }
