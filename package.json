@@ -11,6 +11,11 @@
   ],
   "author": "Stefan Duberg",
   "license": "MIT",
+  "homepage": "https://github.com/stefanduberg/bs-node-url#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stefanduberg/bs-node-url.git"
+  },
   "files": [
     "bsconfig.json",
     "src/*.re"
